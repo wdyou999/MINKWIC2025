@@ -5,7 +5,7 @@ A demo repository for MINKWIC 2025 workshop
 Dr. Kate Cooper's curated list of [GitHub resources](https://github.com/kmcooper/MINKWIC2023/blob/main/documents/guides.md)
 
 ## Code
-The folder [AoC](AoC) contains sample code for the 2022 [Advent of Code](https://adventofcode.com) coding challenge.
+The folder [AoC](AoC) contains sample code for the 2022 [Advent of Code](https://adventofcode.com/2022) coding challenge.
 
 ## TODO
 ### Fork an existing project
