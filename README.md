@@ -22,4 +22,5 @@ Do this when you want to start your own repository for code you wrote originally
    - Add a README.md file
    - Choose a license
 2. Upload your files
-3. Commit changes
+3. Commit changes - Write a good message
+
