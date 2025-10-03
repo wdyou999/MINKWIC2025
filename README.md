@@ -11,7 +11,7 @@ The folder [AoC](AoC) contains sample code for the 2022 [Advent of Code](https:/
 ### Fork an existing project
 Do this to edit or modify someone else's code
 1. Fork this project
-2. Edit README.md to add your name
+2. Edit README.md to add your name: Wendy
 3. Commit changes
 
 ### Create your own project
